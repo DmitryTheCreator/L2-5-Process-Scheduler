@@ -1,0 +1,9 @@
+C:\Users\ПК\OneDrive\Документы\ОСИ\L2-5 Process Scheduler\L2-5 Process Scheduler\bin\Debug\L2-5 Process Scheduler.exe.config
+C:\Users\ПК\OneDrive\Документы\ОСИ\L2-5 Process Scheduler\L2-5 Process Scheduler\bin\Debug\L2-5 Process Scheduler.exe
+C:\Users\ПК\OneDrive\Документы\ОСИ\L2-5 Process Scheduler\L2-5 Process Scheduler\bin\Debug\L2-5 Process Scheduler.pdb
+C:\Users\ПК\OneDrive\Документы\ОСИ\L2-5 Process Scheduler\L2-5 Process Scheduler\obj\Debug\L2-5 Process Scheduler.csprojAssemblyReference.cache
+C:\Users\ПК\OneDrive\Документы\ОСИ\L2-5 Process Scheduler\L2-5 Process Scheduler\obj\Debug\L2_5_Process_Scheduler.Form1.resources
+C:\Users\ПК\OneDrive\Документы\ОСИ\L2-5 Process Scheduler\L2-5 Process Scheduler\obj\Debug\L2_5_Process_Scheduler.Properties.Resources.resources
+C:\Users\ПК\OneDrive\Документы\ОСИ\L2-5 Process Scheduler\L2-5 Process Scheduler\obj\Debug\L2-5 Process Scheduler.csproj.GenerateResource.cache
+C:\Users\ПК\OneDrive\Документы\ОСИ\L2-5 Process Scheduler\L2-5 Process Scheduler\obj\Debug\L2-5 Process Scheduler.exe
+C:\Users\ПК\OneDrive\Документы\ОСИ\L2-5 Process Scheduler\L2-5 Process Scheduler\obj\Debug\L2-5 Process Scheduler.pdb
